@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Пока что все идет по-плану
+Часть 1
